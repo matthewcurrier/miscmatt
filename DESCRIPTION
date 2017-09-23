@@ -1,0 +1,11 @@
+Package: mattmisc
+Type: Package
+Title: Personal Functions
+Version: 0.1.0
+Author: Matthew Currier
+Maintainer: Matthew Currier <currier.matthew@gmail.com>
+Description: This package provides miscellaneous functions that I use.
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
